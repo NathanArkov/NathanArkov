@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @NathanArkov
-- 🌱 French student in computer science
-- ☕ Buy me a coffee : https://ko-fi.com/nathanarkov
+French SecOps enthusiast
+Blue Team
 
 <!---
 NathanArkov/NathanArkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
